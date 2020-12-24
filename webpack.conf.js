@@ -32,7 +32,7 @@ const config = {
         }),
         new Crossorigin({
             scripts: true,
-            link: true
+            link: false
         }),
     ]
 };
